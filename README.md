@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Demo
+Open [https://facebook-messenger-clone-2a08f.web.app/](https://facebook-messenger-clone-2a08f.web.app/) to view the demo
 ## Available Scripts
 
 In the project directory, you can run:
